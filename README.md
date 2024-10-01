@@ -1,5 +1,5 @@
 # test-client
-
+Client part for simple app w/ auth + profile page
 ## Project setup
 ```
 npm install
